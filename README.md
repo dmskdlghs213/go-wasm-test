@@ -68,4 +68,5 @@ func main() {
 ```
 
 6. check read wasm file
+![hogehgoe](https://user-images.githubusercontent.com/42029907/130448499-bae03baf-b761-4836-91fd-5f2c1b051193.png)
 
